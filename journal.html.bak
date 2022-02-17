@@ -246,7 +246,7 @@
             <ul class="footer-menu">
                                                             <li class="footer-menu__item">
                                                                                                 <i class="footer-menu-icon footer-menu-icon--link"></i>
-                                                                                                    Школьный сайт<
+                                                                                                    <h3><a href="http://evpaschool2.ru" target="_blank">Школьный сайт</a></h3>
                                                                                     </li>
                                                                                 <li class="footer-menu__item">
                                                                                                 <i class="footer-menu-icon footer-menu-icon--link"></i>
@@ -259,7 +259,7 @@
                                                             </li>
                                                                                                 <li class="footer-menu__item">
                                                                                                             <i class="footer-menu-icon footer-menu-icon--question"></i>
-                                                                        <a href="journal-help-action"  rel="nofollow" class="b-href">Служба поддержки</a>
+                                                                        <a href="journal-help-action"  rel="nofollow" class="b-href">Помощь при ошибке: "Что-то пошло не так"</a>
                                                             </li>
                                                                                                                     </ul>
         </div>
